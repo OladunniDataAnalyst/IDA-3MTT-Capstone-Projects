@@ -172,9 +172,9 @@ Slicers: Year, Region, Category, Payment Method
 ---
 ## 👤 Author
 Raji Raliat Oladuuni  
-[![LinkedIn](https://shields.io)](https://linkedin.com/in/Oladunni-Raji)
-[![Email](https://shields.io)](dunnestherry@gmail.com)
-[![GitHub](https://shields.io)](https://github.com/OladunniDataAnalyst)
+**[![LinkedIn](https://shields.io)](https://linkedin.com/in/Oladunni-Raji)**
+**[![LinkedIn](https://shields.io)](dunnestherry@gmail.com)**
+**[![GitHub](https://shields.io)](https://github.com/OladunniDataAnalyst)**
 
 ---
 This project was completed as part of the IDA/3MTT Data Analysis Bootcamp Capstone (2026)
