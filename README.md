@@ -5,8 +5,11 @@
 ### 📌 Business Background
 
 ShopEase Nigeria is a mid-sized retail company operating across **8 major commercial cities in Nigeria** — Lagos, Abuja, Kano, Port Harcourt, Ibadan, Enugu, Kaduna, and Benin City. The company sells products across **8 product categories** (Electronics, Home & Kitchen, Sports, Clothing, Toys, Health & Beauty, Books, and Food & Beverage) through both physical stores and an online platform.
+
 The business serves over **18,000 unique customers** and is managed by a team of **50 salespersons**. Despite strong national coverage, the business faces challenges around customer retention, seasonal revenue dips, category concentration risk, and a persistent return rate that cuts into profitability.
+
 This project was commissioned to analyse three years of transaction data (2021–2023) across all regions, categories, and sales channels to uncover performance patterns, identify inefficiencies, and recommend data-driven strategies to drive growth.
+
 ---
 ### 🎯 Objectives
 
