@@ -170,11 +170,24 @@ Matrix: Region × Category Revenue Breakdown
 Slicers: Year, Region, Category, Payment Method
 
 ---
+
 ## 👤 Author
 Raji Raliat Oladuuni  
-- [![linkedIn](https://shields.io)](https://linkedin.com/in/Oladunni-Raji)
-- [![email](https://shields.io)](dunnestherry@gmail.com) 
-- [![gitHub](https://shields.io)](https://github.com/OladunniDataAnalyst)
+<p align="left">
+  <a href="https://linkedin.com/in/Oladunni-Raji" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn">
+  </a>
+  <a href="dunnestherry@gmail.com">
+    <img src="https://shields.io" alt="Email">
+  </a>
+  <a href="https://github.com/OladunniDataAnalyst" target="_blank">
+    <img src="https://shields.io" alt="GitHub">
+  </a>
+</p>
+
+- 🔵 **LinkedIn badge** — https://www.linkedin.com/in/Oladunni-Raji
+- 🔴 **Gmail badge** — dunnestherry@gmail.com
+- ⚫ **GitHub badge** — https://github.com/OladunniDataAnalyst
 
 ---
 This project was completed as part of the IDA/3MTT Data Analysis Bootcamp Capstone (2026)
