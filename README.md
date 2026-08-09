@@ -1,19 +1,16 @@
-# 🛍️ ShopEase Nigeria — Retail Sales Performance Analysis
+## 🛍️ ShopEase Nigeria — Retail Sales Performance Analysis
 ### Capstone Project 1 | IDA / 3MTT Data Analysis Bootcamp
 
 ---
-
-## 📌 Business Background
+### 📌 Business Background
 
 ShopEase Nigeria is a mid-sized retail company operating across **8 major commercial cities in Nigeria** — Lagos, Abuja, Kano, Port Harcourt, Ibadan, Enugu, Kaduna, and Benin City. The company sells products across **8 product categories** (Electronics, Home & Kitchen, Sports, Clothing, Toys, Health & Beauty, Books, and Food & Beverage) through both physical stores and an online platform.
 
 The business serves over **18,000 unique customers** and is managed by a team of **50 salespersons**. Despite strong national coverage, the business faces challenges around customer retention, seasonal revenue dips, category concentration risk, and a persistent return rate that cuts into profitability.
 
 This project was commissioned to analyse three years of transaction data (2021–2023) across all regions, categories, and sales channels to uncover performance patterns, identify inefficiencies, and recommend data-driven strategies to drive growth.
-
 ---
-
-## 🎯 Objectives
+### 🎯 Objectives
 
 1. Analyse total revenue performance across regions, categories, products, and salespersons
 2. Identify seasonal trends and month-over-month revenue patterns
@@ -25,8 +22,7 @@ This project was commissioned to analyse three years of transaction data (2021�
 8. Produce actionable business recommendations backed by data
 
 ---
-
-## 📂 Project Structure
+### 📂 Project Structure
 
 ```
 project1-retail-sales-analysis/
@@ -39,10 +35,9 @@ project1-retail-sales-analysis/
 ├── project1_retail_sales_summary.docx      # Full written report
 └── README.md                         # This file
 ```
-
 ---
 
-## 📊 Dataset
+### 📊 Dataset
 
 | Attribute | Detail |
 |-----------|--------|
@@ -78,8 +73,7 @@ project1-retail-sales-analysis/
 > ⚠️ **Data Quality Note:** The `region` and `state` columns both contain city-level values rather than a proper geographic hierarchy. The `region` column was used as the primary geographic dimension consistently across all four tools.
 
 ---
-
-## 🛠️ Tools & Techniques Used
+### 🛠️ Tools & Techniques Used
 
 The analysis was conducted end-to-end using four industry-standard tools, each applied to a different layer of the analytical workflow:
 
@@ -105,8 +99,7 @@ The analysis was conducted end-to-end using four industry-standard tools, each a
 - Interactive slicers and page-level filters in Power BI
 
 ---
-
-## 📈 KPI Summary
+### 📈 KPI Summary
 
 | KPI | Value |
 |-----|-------|
@@ -126,8 +119,7 @@ The analysis was conducted end-to-end using four industry-standard tools, each a
 | **Worst Month** | February 2021 (₦383.1M · -15.70% MoM) |
 
 ---
-
-## 🔍 Key Findings
+### 🔍 Key Findings
 
 ### 📈 Finding 1 — Electronics Is Nearly Half the Entire Business
 Electronics accounts for **48.72% of total net revenue (₦7.79B)** — nearly half the business on its own. The remaining 7 categories share only 51.28%. This extreme concentration creates significant strategic risk: any supply disruption or pricing pressure in Electronics directly threatens overall performance. Electronics also carries the second-highest return rate (8.24%).
@@ -146,7 +138,7 @@ SQL analysis confirmed that **no customer placed more than 5 orders across the f
 
 ---
 
-## 💡 Recommendations
+### 💡 Recommendations
 
 | # | Recommendation | Priority |
 |---|---------------|----------|
@@ -158,8 +150,7 @@ SQL analysis confirmed that **no customer placed more than 5 orders across the f
 | 6 | Optimise discount strategy: apply discounts selectively to slow-moving SKUs only | 🟢 Low |
 
 ---
-
-## 🖼️ Dashboard Preview
+### 🖼️ Dashboard Preview
 See Project1_Retail_Sales_Dashboard.pdf for the full Power BI dashboard featuring:
 
 4 KPI Cards (Total Revenue, Total Orders, AOV, Return Rate)
@@ -173,8 +164,7 @@ Slicers: Year, Region, Category, Payment Method
 
 ### 👤 Author
 Raji Raliat Oladuuni  
-###Connect with me
-
+Connect with me
 * 👔 **LinkedIn:** [Oladunn Raji](https://www.://linkedin.com/in/Oladunni-Raji)
 * 📧 **Email:** [dunnestherry@gmail.com](dunnestherry@gmail.com)
 * 💻 **GitHub:** [OLadunniDataAnalyst](https://github.com/OladunniDataAnalyst)
