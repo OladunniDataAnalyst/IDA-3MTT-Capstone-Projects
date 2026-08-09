@@ -174,9 +174,12 @@ Slicers: Year, Region, Category, Payment Method
 ## 👤 Author
 
 **Name:** Raji Raliat Oladuuni  
-- 🔵 **LinkedIn badge** — https://www.linkedin.com/in/Oladunni-Raji
-- 🔴 **Gmail badge** — dunnestherry@gmail.com
-- ⚫ **GitHub badge** — https://github.com/OladunniDataAnalyst
+- 🔵 **[![LinkedIn](https://shields.io)](https://linkedin.com)
+** — https://www.linkedin.com/in/Oladunni-Raji
+- 🔴 **[![Email](https://shields.io)](mailto:your.email@gmail.com)
+** — dunnestherry@gmail.com
+- ⚫ **[![GitHub](https://shields.io)](https://github.com)
+** — https://github.com/OladunniDataAnalyst
 
 ---
 This project was completed as part of the IDA/3MTT Data Analysis Bootcamp Capstone (2026)
