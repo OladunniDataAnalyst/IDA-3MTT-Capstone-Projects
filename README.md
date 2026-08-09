@@ -173,17 +173,12 @@ Slicers: Year, Region, Category, Payment Method
 
 ## 👤 Author
 Raji Raliat Oladuuni  
-<p align="left">
-  <a href="https://linkedin.com/in/Oladunni-Raji" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn">
-  </a>
-  <a href="dunnestherry@gmail.com">
-    <img src="https://shields.io" alt="Email">
-  </a>
-  <a href="https://github.com/OladunniDataAnalyst" target="_blank">
-    <img src="https://shields.io" alt="GitHub">
-  </a>
-</p>
+### 👤 Connect with me
+
+* 👔 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/in/Oladunni-Raji)
+* 📧 **Email:** [dunnestherry@gmail.com](mailto:dunnestherry@gmail.com)
+* 💻 **GitHub:** [://github.com](https://://github.com/OladunniDataAnalyst)
+
 
 - 🔵 **LinkedIn badge** — https://www.linkedin.com/in/Oladunni-Raji
 - 🔴 **Gmail badge** — dunnestherry@gmail.com
