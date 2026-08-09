@@ -175,9 +175,9 @@ Slicers: Year, Region, Category, Payment Method
 Raji Raliat Oladuuni  
 ### 👤 Connect with me
 
-* 👔 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/in/Oladunni-Raji)
-* 📧 **Email:** [dunnestherry@gmail.com](mailto:dunnestherry@gmail.com)
-* 💻 **GitHub:** [://github.com](https://://github.com/OladunniDataAnalyst)
+* 👔 **LinkedIn:** [Oladunn Raji](https://www.://linkedin.com/in/Oladunni-Raji)
+* 📧 **Email:** [dunnestherry@gmail.com](dunnestherry@gmail.com)
+* 💻 **GitHub:** [OLadunniDataAnalyst](https://github.com/OladunniDataAnalyst)
 
 
 - 🔵 **LinkedIn badge** — https://www.linkedin.com/in/Oladunni-Raji
