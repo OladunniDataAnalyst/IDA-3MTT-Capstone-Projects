@@ -219,9 +219,9 @@ Avg Attendance = AVERAGE(student_performance[attendance_pct])
 
 ## 👤 Author
 **Oladunni Raji**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](dunnestherry@gmail.com)
-
+Connect with me
+* 👔 **LinkedIn:** [Oladunn Raji](https://www.://linkedin.com/in/Oladunni-Raji)
+* 📧 **Email:** [dunnestherry@gmail.com](dunnestherry@gmail.com)
+* 💻 **GitHub:** [OLadunniDataAnalyst](https://github.com/OladunniDataAnalyst)
 ---
-
-*This project was completed as part of the IDA/3MTT Data Analysis Bootcamp Capstone Project Compendium.*
+This project was completed as part of the IDA/3MTT Data Analysis Bootcamp Capstone (2026)
