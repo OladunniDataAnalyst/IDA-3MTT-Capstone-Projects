@@ -220,7 +220,7 @@ Avg Attendance = AVERAGE(student_performance[attendance_pct])
 ## 👤 Author
 **Oladunni Raji**  
 Connect with me
-* 👔 **LinkedIn:** [Oladunn Raji](https://www.://linkedin.com/in/Oladunni-Raji)
+* 👔 **LinkedIn:** [Oladunni Raji](https://www.://linkedin.com/in/Oladunni-Raji)
 * 📧 **Email:** [dunnestherry@gmail.com](dunnestherry@gmail.com)
 * 💻 **GitHub:** [OLadunniDataAnalyst](https://github.com/OladunniDataAnalyst)
 ---
