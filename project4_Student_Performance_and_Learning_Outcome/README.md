@@ -218,13 +218,9 @@ Avg Attendance = AVERAGE(student_performance[attendance_pct])
 ---
 
 ## 👤 Author
-
 **Oladunni Raji**  
-Computer Science Graduate | Data Analyst  
-IDA/3MTT Data Analysis Bootcamp — 2024/2025  
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-email)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](dunnestherry@gmail.com)
 
 ---
 
