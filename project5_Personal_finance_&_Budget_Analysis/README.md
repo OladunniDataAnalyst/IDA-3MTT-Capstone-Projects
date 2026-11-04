@@ -134,8 +134,10 @@ Savings Rate   = DIVIDE([Net Savings], [Total Income])
 ## 👤 Author
 
 **Oladunni Raji** — Computer Science Graduate | Data Analyst
-IDA/3MTT Data Analysis Bootcamp
-
+Connect with me
+* 👔 **LinkedIn:** [Oladunni Raji](https://www.://linkedin.com/in/Oladunni-Raji)
+* 📧 **Email:** [dunnestherry@gmail.com](dunnestherry@gmail.com)
+* 💻 **GitHub:** [OLadunniDataAnalyst](https://github.com/OladunniDataAnalyst)
 ---
 
 *Completed as part of the IDA/3MTT Data Analysis Bootcamp Capstone Project Compendium.*
